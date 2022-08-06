@@ -1,0 +1,2 @@
+# JPlatform
+This was a stand-alone project meant to be a "firmware" of sorts that could be licensed to businesses, that provided an easy-to-use point-of-contact/sale. This project didnt come along very far, and apparently I had just learned what an interface was, since they compose 9 of the 12 classes in this project! Absolutely no direction with code, but I wanted to upload this as a testimate to where we begin programming!
